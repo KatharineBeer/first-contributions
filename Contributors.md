@@ -7,5 +7,6 @@
 - [Olly](https://github.com/BigGubOlly)
 - [Jaskiran Kang](https://github.com/JaskiranKang)
 - [Dominique Sherwood](https://github.com/DominiqueSherwood1)
+- [Donald Duck](https://github.com/DonalDuck)
 - [Elijah Aremu](https://github.com/elielijah321)
 
